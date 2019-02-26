@@ -88,8 +88,4 @@ public class BinarySearchST<Key extends Comparable<Key>, Value> {
       return keys[i - 1];
     }
   }
-
-  public Key delete(Key key) {
-
-  }
 }
